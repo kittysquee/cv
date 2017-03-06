@@ -1,6 +1,6 @@
 # Elaine Osbourn
 
-[Blog](https://medium.com/@kittysquee) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Github](https://github.com/kittysquee) | [LinkedIn](https://www.linkedin.com/in/elaine-osbourn-37a20636/)
+[Blog](https://medium.com/@kittysquee) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Github](https://github.com/kittysquee) | [LinkedIn](https://www.linkedin.com/in/elaine-osbourn-37a20636/)
 
 Do you want to hear something funny? I am the only adult I know that can't ride a bicycle.
 
