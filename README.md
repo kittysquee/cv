@@ -65,6 +65,14 @@ Best practice is in a continual state of flux and I've always sought to stay up 
 * Atom
 * Slack
 
+### Writing
+
+Something I have found very beneficial since starting at Makers Academy is [writing](https://medium.com/@kittysquee) down my thoughts. It has helped with my comprehension and proven itself to be cathartic.
+
+Some articles of note;
+* [My First Date with RSpec](https://medium.com/@kittysquee/my-first-date-with-rspec-f523cc0a7fbf#.uyxpy4d5s)
+* [Learning Through Pair Programming](https://medium.com/@kittysquee/learning-through-pair-programming-1a79e5a7bbff#.tney28foj)
+
 ## Education
 
 **Makers Academy; March 2017 cohort**
