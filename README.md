@@ -81,11 +81,12 @@ Some articles of note;
 * Skills taught include Ruby, Ruby on Rails and JavaScript
 
 **Self Guided Learning; November 2016 – Present**
-* Learn Ruby the Hard Way
-* Codewars
-* Ruby Koans
+* [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/)
+* [Codewars](https://www.codewars.com/users/kittysquee)
+* [Ruby Koans](http://rubykoans.com/)
 * Codecademy (Ruby Module)
 * Udemy's Web Developer Bootcamp
+* [Learn to Program](https://pine.fm/LearnToProgram/)
 
 **Queen’s University Belfast; 2012**
 * Cardiac Surgical Intensive Care Nursing
