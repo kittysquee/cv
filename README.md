@@ -1,6 +1,6 @@
 # Elaine Osbourn
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Github](https://github.com/kittysquee) | [LinkedIn](https://www.linkedin.com/in/elaine-osbourn-37a20636/)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Github](https://github.com/kittysquee) | [LinkedIn](https://www.linkedin.com/in/elaine-osbourn-37a20636/)
 
 Currently working as a freelance software engineer with [tosbourn ltd](https://tosbourn.com) and contracting for Barnardo's, the children's charity, assisting their with digital transformation. My background is in critical care nursing and education.
 
@@ -42,7 +42,7 @@ I'm a firm believer in sharing what I know and amongst other things have given t
 
 ### Flexibility and Adaptability
 
-I've developed these skills from working in a critical care environment where patients can deteriorate suddenly. I am very conscious of resource use and can adapt to thrive with limited resources.
+I've developed these skills from working in a critical care environment where patients can deteriorate suddenly. I am conscious of resource use and can adapt to thrive with limited resources.
 
 I respond well to changing priorities and am very aware that the needs of business change rapidly.
 
@@ -57,7 +57,6 @@ Best practice is in a continual state of flux and I've always sought to stay up 
 * Ruby
 * HTML
 * CSS
-* React
 * Jekyll
 
 ### Tools
@@ -65,12 +64,13 @@ Best practice is in a continual state of flux and I've always sought to stay up 
 * Git
 * Atom
 * Slack
+* PostgreSQL
 
 ## Education
 
 **Makers Academy; March 2017 cohort**
 
-* Highly selective 12 week full-time course
+* 12 week full-time course
 * Focus on Test-Driven Development and Agile Development
 * Skills taught include Ruby, Ruby on Rails and JavaScript
 
@@ -85,7 +85,7 @@ Best practice is in a continual state of flux and I've always sought to stay up 
 ## Experience
 
 **Barnardo's**  
-December 2017 - Present  
+December 2017 - June 2019  
 Contract Software Engineer
 
 **tosbourn ltd**  
@@ -100,16 +100,10 @@ Senior Staff Nurse and Clinical Facilitator
 **Belfast Health and Social Care Trust**  
 August 2013 - July 2014  
 Neonatal Intensive Care Unit  
- Staff Nurse
+Staff Nurse
 
 **Belfast Health and Social Care Trust**  
 December 2008 - August 2013  
 Cardiac Surgical Intensive Care Unit  
 Staff Nurse
 
-## Interests
-
-* Cats
-* Table top gaming
-* Self confessed terrible taste in music
-* 40s/50s fashion
