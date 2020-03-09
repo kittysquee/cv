@@ -15,7 +15,9 @@ finding software solutions for our clients.
 ### TOSBOURN LTD
 
 Software Developer
+
 May 2017 - Present
+
 London, United Kingdom
 
 I provide a variety of technical services to clients, mainly Ruby on Rails
@@ -24,7 +26,9 @@ development. I also do some technical writing.
 ### Lisson Gallery
 
 Back End Developer
+
 February 2018 - Present
+
 London, United Kingdom
 
 I provide back end development support for Lisson's website.
@@ -48,7 +52,9 @@ Tech stack:
 ### Bonzai Event Badging
 
 Back End Developer
-May 2017 - Present 
+
+May 2017 - Present
+
 London, United Kingdom
 
 Bonzai offer event badging services, allowing attendees to quickly go from
@@ -59,7 +65,9 @@ I oversee the back end development of the website and API.
 ### Barnardo's
 
 Back End Developer
+
 December 2017 - June 2019 (1 year 7 months)
+
 London, United Kingdom
 
 I was a contract developer in Barnardo's Digital team, assisting with digital
@@ -98,7 +106,9 @@ Skills:
 ### BPR Architects
 
 Software Engineer
+
 June 2017 - June 2019 (2 years 1 month)
+
 London, United Kingdom
 
 I modernised and updated the existing Rails app that was running the BPR
@@ -113,7 +123,9 @@ hosting services.
 ### Forward Leading
 
 Lead Developer
+
 June 2017 - September 2018 (1 year 4 months)
+
 London, United Kingdom
 
 I overseen the development of the website for Forward Leading, one of the
@@ -130,16 +142,20 @@ This project was developed using:
 ### Royal Brompton & Harefield NHS Foundation Trust
 #### AICU Staff Nurse (Band 6)
 October 2014 - January 2017 (2 years 4 months)
+
 London, United Kingdom
+
 Medical simulation and clinical facilitator
 
 ### Belfast Health & Social Care Trust
 #### Staff Nurse (Regional Neonatal Intensive Care Unit)
 August 2013 - July 2014 (1 year)
+
 Belfast, United Kingdom
 
 #### Staff Nurse (Cardiac Surgical Intensive Care Unit)
 December 2008 - August 2013 (4 years 9 months)
+
 Belfast, United Kingdom
 
 ## Education
