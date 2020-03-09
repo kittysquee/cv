@@ -1,109 +1,153 @@
 # Elaine Osbourn
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Github](https://github.com/kittysquee) | [LinkedIn](https://www.linkedin.com/in/elaine-osbourn-37a20636/)
+[Summary](#summary) | [Experience](#experience) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/elaine-osbourn-37a20636/)
 
-Currently working as a freelance software engineer with [tosbourn ltd](https://tosbourn.com) and contracting for Barnardo's, the children's charity, assisting their with digital transformation. My background is in critical care nursing and education.
+Software Developer at tosbourn ltd.
+London, Greater London, United Kingdom
 
-## Skills
+## Summary
 
-### Team Work
+Back end software engineer with tosbourn ltd. Passionate about
+finding software solutions for our clients.
 
-I led a medical simulation project, which taught the principles of crisis resource management (CRM). This term comes from aviation, it was developed as a lot of accidents happen due to failures in communication and use of resource.
+## Experience
+### TOSBOURN LTD
 
-I created simulated emergency scenarios. We first gave an introduction to CRM and how we can use it, then we ran the scenario and debriefed using advocacy based inquiry. The purpose of these simulations was not to teach clinical skill but team working and communication skills. My Human Factors training was particularly useful to me with CRM.
+Software Developer
+May 2017 - Present
+London, United Kingdom
 
-### Communication
+I provide a variety of technical services to clients, mainly Ruby on Rails
+development. I also do some technical writing.
 
-This is something which is particularly important to me. Over the last twelve years I have developed my significant communication skills.
+### Lisson Gallery
 
-I am able to have difficult conversations with people and break down complex topics into ones which are easy to understand. I am an empathetic listener and people play a very important part in who I am as a person.
+Back End Developer
+February 2018 - Present
+London, United Kingdom
 
-I am always willing to listen to and respond to constructive criticism and feedback.
+I provide back end development support for Lisson's website.
 
-### Documentation
+When I first starting working with Lisson the back end of the site had been
+languishing for several years and I upgraded Rails from version 3.2 to 5.1 with
+no major issues. I have continued to keep the site as up to date as possible to
+mitigate security issues.
 
-I have spent the last twelve years documenting my working day and know how important it is. If it isn’t properly documented it’s difficult to track progress. One of my mantras is to make things as easy as possible, good documentation makes life easier for everyone.
+I have also done work to optimise memory usage and storage. I have also
+worked closely with the front end team to ensure that a redesign we were
+performing was handled successfully.
 
-### Planning and Organisation
+Work has also been done to mitigate attacks to the site.
 
-I am able to set targets and schedules and track progress through documentation.
+Tech stack:
 
-In my previous roles I was in charge of planning and executing work for myself and for my team.
+- Ruby on Rails
+- PostgreSQL
 
-In a high pressure environment organisation is key. Over the years I have learned how to stay organised and focused and see the benefits this can bring to my work.
+### Bonzai Event Badging
 
-### Mentorship and Education
+Back End Developer
+May 2017 - Present 
+London, United Kingdom
 
-I enjoy mentoring and teaching. With confidence I have been able to teach peers, students, and more senior staff members (managers and doctors).
+Bonzai offer event badging services, allowing attendees to quickly go from
+standing in a queue to being part of your event.
+Find out more at https://teambonzai.io
+I oversee the back end development of the website and API.
 
-People have told me I am approachable and supportive.
+### Barnardo's
 
-I'm a firm believer in sharing what I know and amongst other things have given talks to peers.
+Back End Developer
+December 2017 - June 2019 (1 year 7 months)
+London, United Kingdom
 
-### Flexibility and Adaptability
+I was a contract developer in Barnardo's Digital team, assisting with digital
+transformation.
 
-I've developed these skills from working in a critical care environment where patients can deteriorate suddenly. I am conscious of resource use and can adapt to thrive with limited resources.
+Whilst working for Barnardo's I was the sole Ruby on Rails developer for much
+of my time there. I worked with a variety of projects including one dealing with
+a contactless mobile payment solution which required me to pick up some
+Objective-C.
 
-I respond well to changing priorities and am very aware that the needs of business change rapidly.
+Whilst I was at Barnardo's I had a great interest in keeping all the applications
+which I worked with secure and up to date.
 
-### Research
+I was required to create prototypes quickly to proof ideas.
 
-I have often had to research and put in place best practice findings. Evidence based practice is key in healthcare as it is in web development.
+I developed an app to obfuscate URLs to outside IPs on their intranet. At the
+time of my leaving Barnardo's this app had been used nearly a million times.
 
-Best practice is in a continual state of flux and I've always sought to stay up to date.
+I also helped onboard new members of staff.
 
-### Languages and Frameworks
+Tech stack:
 
-* Ruby
-* HTML
-* CSS
-* Jekyll
+- Ruby on Rails
+- GraphQL
+- PostgreSQL
+- Objective-C
+- Git
 
-### Tools
+Skills:
 
-* Git
-* Atom
-* Slack
-* PostgreSQL
+- Pair programming
+- TDD
+- Communication
+- Agile methodologies
+
+### BPR Architects
+
+Software Engineer
+June 2017 - June 2019 (2 years 1 month)
+London, United Kingdom
+
+I modernised and updated the existing Rails app that was running the BPR
+website and added extra functionality.
+As well as bringing Ruby, Rails, and associated gems up to speed I also
+helped to implement new sections on their website so they could better serve
+their website visitors.
+Seeing the benefit in making small changes regularly, I worked with BPR for
+small bodies of work on the website to continually improve it and provided
+hosting services.
+
+### Forward Leading
+
+Lead Developer
+June 2017 - September 2018 (1 year 4 months)
+London, United Kingdom
+
+I overseen the development of the website for Forward Leading, one of the
+best events companies for professionals. Its ultimate goal is to inform, inspire
+and connect international senior professionals and C-suite executives.
+
+This project was developed using:
+- Ruby on Rails
+- HTML
+- Sass
+- JavaScript
+- MySQL
+
+### Royal Brompton & Harefield NHS Foundation Trust
+#### AICU Staff Nurse (Band 6)
+October 2014 - January 2017 (2 years 4 months)
+London, United Kingdom
+Medical simulation and clinical facilitator
+
+### Belfast Health & Social Care Trust
+#### Staff Nurse (Regional Neonatal Intensive Care Unit)
+August 2013 - July 2014 (1 year)
+Belfast, United Kingdom
+
+#### Staff Nurse (Cardiac Surgical Intensive Care Unit)
+December 2008 - August 2013 (4 years 9 months)
+Belfast, United Kingdom
 
 ## Education
 
-**Makers Academy; March 2017 cohort**
+### Makers Academy
+Web Development (2017)
 
-* 12 week full-time course
-* Focus on Test-Driven Development and Agile Development
-* Skills taught include Ruby, Ruby on Rails and JavaScript
+### Queen's University Belfast
 
-**Queen’s University Belfast; 2012**
-
-* Cardiac Surgical Intensive Care Nursing
-
-**Queen’s University Belfast; 2008**
-
-* BSc Nursing Sciences (Adult)
-
-## Experience
-
-**Barnardo's**  
-December 2017 - June 2019  
-Contract Software Engineer
-
-**tosbourn ltd**  
-June 2017 - Present  
-Freelance Software Engineer
-
-**Royal Brompton and Harefield NHS Foundation Trust**  
-October 2014 - January 2017  
-Adult Intensive Care Unit  
-Senior Staff Nurse and Clinical Facilitator
-
-**Belfast Health and Social Care Trust**  
-August 2013 - July 2014  
-Neonatal Intensive Care Unit  
-Staff Nurse
-
-**Belfast Health and Social Care Trust**  
-December 2008 - August 2013  
-Cardiac Surgical Intensive Care Unit  
-Staff Nurse
-
+- Cardiac Surgical Intensive Care Nursing, Critical Care Nursing (2011 - 2012)
+- Clinical Skills in Cardiac Intensive Care Nursing (2009 - 2009)
+- Bachelor of Science (B.Sc.) Adult Nursing (2005 - 2008)
