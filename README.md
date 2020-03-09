@@ -2,7 +2,7 @@
 
 [Summary](#summary) | [Experience](#experience) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/elaine-osbourn-37a20636/) | [Email](elaine@tosbourn.com)
 
-Software Developer at tosbourn ltd.
+Ruby on Rails Developer (freelance) at tosbourn ltd.
 
 London, Greater London, United Kingdom
 
