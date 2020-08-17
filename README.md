@@ -1,6 +1,6 @@
 # Elaine Osbourn
 
-[Summary](#summary) | [Experience](#experience) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/elaine-osbourn-37a20636/) | [Email](elaine@tosbourn.com)
+[Summary](#summary) | [Experience](#experience) | [Education](#education) | [LinkedIn](https://www.linkedin.com/in/elaine-osbourn-37a20636/) | [Email](mailto:elaine@tosbourn.com)
 
 Ruby on Rails Developer (freelance) at tosbourn ltd.
 
