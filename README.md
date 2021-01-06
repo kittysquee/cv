@@ -140,7 +140,7 @@ This project was developed using:
 - MySQL
 
 ### Royal Brompton & Harefield NHS Foundation Trust
-#### AICU Staff Nurse (Band 6)
+#### AICU Senior Staff Nurse (Band 6)
 October 2014 - January 2017 (2 years 4 months)
 
 London, United Kingdom
