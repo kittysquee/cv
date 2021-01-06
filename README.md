@@ -53,7 +53,7 @@ Tech stack:
 
 Back End Developer
 
-May 2017 - Present
+May 2017 - May 2020
 
 London, United Kingdom
 
